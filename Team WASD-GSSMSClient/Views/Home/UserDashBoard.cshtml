@@ -1,0 +1,53 @@
+﻿@model Team_WASD_GSSMSClient.UserProfile
+
+@{
+    ViewBag.Title = "UserDashBoard";
+}
+
+
+
+<fieldset>
+
+    <!-- Author: Elizaveta Liashova, user dash board for quick search after successful login-->
+    <!-- Checking session -->
+    @if (Session["UserName"] != null)
+    {
+        <h2> Welcome! @Session["UserName"].ToString()</h2>
+
+
+    }
+
+    <div>
+        @Html.ActionLink("Check All Games", "../Game/Index", null, new { @class = "btn btn-primary" })
+
+    </div>
+    <br />
+    <br />
+
+    @using (Html.BeginForm("SearchGameByTitle", "Game", FormMethod.Post))
+    {
+
+        <div>
+            Quick search a game title:
+            <br />
+            <br />
+            <input type="text" id="gameTitle" name="gameTitle">
+            <br />
+            <br />
+            <input type="submit" id="submitId" value="submit" class="btn btn-success" />
+
+        </div>
+
+    }
+
+    @{
+        if (ViewBag.SearchKey != null)
+        {
+            <span>
+                Search Key: @ViewBag.SearchKey
+            </span>
+        }
+    }
+
+
+</fieldset>

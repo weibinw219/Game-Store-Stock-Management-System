@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team WASD - Game Store Stock Management System", "Team WASD - Game Store Stock Management System\Team WASD - Game Store Stock Management System.csproj", "{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Team WASD-GSSMSClient", "Team WASD-GSSMSClient\Team WASD-GSSMSClient.csproj", "{56BE7E30-A48D-47D5-AAD0-F5E3EB9B0D3E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA} = {6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED60BC1-72B1-4C4C-8A35-A01BE489ACFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BE7E30-A48D-47D5-AAD0-F5E3EB9B0D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BE7E30-A48D-47D5-AAD0-F5E3EB9B0D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BE7E30-A48D-47D5-AAD0-F5E3EB9B0D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BE7E30-A48D-47D5-AAD0-F5E3EB9B0D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {656DAD7F-A76A-422C-B8C7-E4D31C5759F2}
+	EndGlobalSection
+EndGlobal

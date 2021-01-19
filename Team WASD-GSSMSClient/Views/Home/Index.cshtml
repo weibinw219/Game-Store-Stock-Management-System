@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>WASD Game Store Management System</h2>
+    <p class="lead">Welcome to WASD game management system!</p>
+</div>
+
+<!-- Author: Elizaveta Liashova, main index page for this application, showing the login button-->
+<!-- Checking session -->
+@if (Session["UserName"] == null)
+{
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Team WASD</h2>
+            <p>
+                To proceed you need to login to the system.
+            </p>
+            <p><a class="btn btn-default" href="../Home/Login">Login &raquo;</a></p>
+        </div>
+
+
+    </div>
+}

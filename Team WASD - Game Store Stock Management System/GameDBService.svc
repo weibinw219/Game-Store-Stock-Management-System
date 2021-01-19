@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Team_WASD___Game_Store_Stock_Management_System.GameDBService" CodeBehind="GameDBService.svc.cs" %>

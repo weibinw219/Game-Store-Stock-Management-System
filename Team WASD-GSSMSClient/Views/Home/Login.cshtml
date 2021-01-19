@@ -1,0 +1,51 @@
+﻿@model Team_WASD_GSSMSClient.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+@Styles.Render("~/Content/bootstrap.css")
+@Styles.Render("~/Content/themes/base/jquery-ui.css")
+
+<!-- Author: Elizaveta Liashova, login page-->
+
+<h2>Login </h2>
+
+@using (Html.BeginForm("Login", "Home", FormMethod.Post))
+{
+    <fieldset>
+
+
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        @if (@ViewBag.Message != null)
+        {
+            <div style="border: 1px solid red">
+                @ViewBag.Message
+            </div>
+        }
+
+        <div>
+            @Html.LabelFor(a => a.UserName)
+            <br />
+            @Html.TextBoxFor(a => a.UserName)
+            @Html.ValidationMessageFor(a => a.UserName, "", new { @style = "color:red" })
+        </div>
+
+        <div>
+            @Html.LabelFor(a => a.Password)
+            <br />
+            @Html.PasswordFor(a => a.Password)
+
+            @Html.ValidationMessageFor(a => a.Password, "", new { @style = "color:red" })
+        </div>
+
+        <br />
+        <button type="submit" value="Login" class="btn btn-primary">Login</button>
+
+
+    </fieldset>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,235 @@
+﻿@model Team_WASD_GSSMSClient.GameDBServiceReference.Game
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<!-- Author: Anran Qin, edit page for selected game-->
+<!-- Checking session -->
+@if (Session["UserName"] != null)
+{
+    <h2>Edit</h2>
+    @Styles.Render("~/Content/bootstrap.css")
+    @Styles.Render("~/Content/themes/base/jquery-ui.css")
+
+    using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+
+        <div class="form-horizontal">
+            <h4>Game</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.GameTitle, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.GameTitle, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.GameTitle, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Genre, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @{
+                        List<SelectListItem> listGenres = new List<SelectListItem>();
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Racing & flying",
+                            Value = "Racing & flying"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Simulation",
+                            Value = "Simulation"
+
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Shooter",
+                            Value = "Shooter"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Card & board",
+                            Value = "Card & board"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Family & kids",
+                            Value = "Family & kids"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Fighting",
+                            Value = "Fighting"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Role playing",
+                            Value = "Role playing"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Strategy",
+                            Value = "Strategy"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Sports",
+                            Value = "Sports"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Action & adventure",
+                            Value = "Action & adventure"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Indies",
+                            Value = "Indies"
+                        });
+                        listGenres.Add(new SelectListItem
+                        {
+                            Text = "Others",
+                            Value = "Others"
+                        });
+                    }
+
+                    @Html.DropDownListFor(model => model.Genre, listGenres, "-- Select genre --", new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Genre, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            @Html.HiddenFor(model => model.Id)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.InStockAmount, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.InStockAmount, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.InStockAmount, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Platform, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+
+                    @{
+                        List<SelectListItem> listItems = new List<SelectListItem>();
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "PS4",
+                            Value = "PS4"
+                        });
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "XBox One ",
+                            Value = "XBox One"
+
+                        });
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "Nintendo Switch",
+                            Value = "Nintendo Switch"
+                        });
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "PS5",
+                            Value = "PS5"
+                        });
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "Xbox Series",
+                            Value = "Xbox Series"
+                        });
+                        listItems.Add(new SelectListItem
+                        {
+                            Text = "PC",
+                            Value = "PC"
+                        });
+                    }
+
+                    @Html.DropDownListFor(model => model.Platform, listItems, "-- Select platform --", new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Platform, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Price, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Publisher, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Publisher, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Publisher, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ReleaseDate, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ReleaseDate, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ReleaseDate, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.TextAreaFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Save" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+    </div>
+
+}
+
+else
+{
+    <h2>You dont have the permission to view this page!!!</h2>
+    <div>
+        @Html.ActionLink("Back to Login Page", "../Home/Login", null, new { @class = "btn btn-primary" })
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryui")
+
+    <!-- Author: Wei Bin Wang, use datpicker for all datetime input type-->
+    <script type="text/javascript">
+        $(function () {
+            $('input[type=datetime]').datepicker({
+                dateFormat: "yy-M-dd",
+                changeMonth: true,
+                changeYear: true,
+                yearRange: "-60:+0"
+            });
+
+        });
+    </script>
+
+}
+

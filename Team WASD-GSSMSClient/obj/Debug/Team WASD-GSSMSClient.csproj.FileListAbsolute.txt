@@ -1,0 +1,249 @@
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.AppContext.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Collections.Immutable.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Console.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Http.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Sockets.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.ValueTuple.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.Web.Infrastructure.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\WebGrease.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CoreCompileInputs.cache
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CopyComplete
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.dll
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.xml
+C:\SheridanProjects\ESS\FinalProjectBU\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csprojAssemblyReference.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.AppContext.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Collections.Immutable.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Console.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Http.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Sockets.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.ValueTuple.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.rsp
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe.config
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.Web.Infrastructure.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\WebGrease.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.pdb
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csprojAssemblyReference.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CoreCompileInputs.cache
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CopyComplete
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.dll
+C:\SheridanProjects\ESS\FinalProjectBU\WithSimpleLogin\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.pdb
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll.config
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Team WASD-GSSMSClient.pdb
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.exe.config
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csc.rsp
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.exe.config
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\csi.rsp
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.AppContext.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Console.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Http.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.exe.config
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\vbc.rsp
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\WebGrease.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Helpers.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Mvc.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Optimization.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.Razor.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Newtonsoft.Json.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Antlr3.Runtime.pdb
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csprojAssemblyReference.cache
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CoreCompileInputs.cache
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.csproj.CopyComplete
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.dll
+C:\Users\Veta\Desktop\College\Team WASD - Game Store Stock Management System\Team WASD-GSSMSClient\obj\Debug\Team WASD-GSSMSClient.pdb

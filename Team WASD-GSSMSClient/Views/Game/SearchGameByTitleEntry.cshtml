@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "SearchGameByTitleEntry";
+}
+
+<!-- Author: Anran Qin, entry page for searching a game-->
+<!-- Checking session -->
+@if (Session["UserName"] != null)
+{
+
+    <h2>Search Game</h2>
+
+    using (Html.BeginForm("SearchGameByTitle", "Game", FormMethod.Post))
+    {
+
+        <div>
+            Please enter the full name of the game:<br>
+            <input type="text" id="gameTitle" name="gameTitle">
+            <input type="submit" id="submitId" value="submit" class="btn btn-success" />
+        </div>
+
+    }
+
+
+}
+else
+{
+    <h2>You dont have the permission to view this page!!!</h2>
+    <div>
+        @Html.ActionLink("Back to Login Page", "../Home/Login", null, new { @class = "btn btn-primary" })
+    </div>
+}

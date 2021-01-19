@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Team WASD</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("WASD Game Management System", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    @if (Session["UserName"] == null)
+                    {
+                        <li>@Html.ActionLink("Login", "Login", "Home")</li>
+                    }
+                    @if (Session["UserName"] != null)
+                    {
+                        <li>@Html.ActionLink("See all games", "../Game/Index", "Home")</li>
+
+                        <li>@Html.ActionLink("Search game by title", "../Game/SearchGameByTitleEntry", "Home")</li>
+                        <li>@Html.ActionLink("PS5", "../Game/PS5Games", "Home")</li>
+                        <li>@Html.ActionLink("XBox Series", "../Game/XBoxSeriesGames", "Home")</li>
+                        <li>@Html.ActionLink("PS4", "../Game/PS4Games", "Home")</li>
+                        <li>@Html.ActionLink("Xbox One", "../Game/XBoxOneGames", "Home")</li>
+                        <li>@Html.ActionLink("Nintendo Switch", "../Game/NintendoSwitchGames", "Home")</li>
+                        <li>@Html.ActionLink("PC", "../Game/PCGames", "Home")</li>
+                        <li>@Html.ActionLink("Logout", "../Home/Logout", "Home")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - WASD Game Management System</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
